@@ -5,23 +5,8 @@
   <!-- <img src="https://github.com/sajadorouji/sajadorouji/raw/master/my.png" title="description" alt="my" width="32" height="32" /> -->
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sajadorouji" alt="sajadorouji" title="wwmoraes" />
-  <img src="https://badgen.net/badge/icon/user?icon=visualstudio&label" alt="VSCode" title="VSCode" />
-  <img src="https://badgen.net/badge/icon/abuser?icon=terminal&label" alt="Terminal" title="Terminal" />
-  <img src="https://badgen.net/badge/icon/contained?icon=docker&label" alt="Docker" title="Docker" />
-  <img src="https://badgen.net/badge/icon/addicted?icon=git&label" alt="git" title="git" />
-  <img src="https://badgen.net/badge/icon/dependant?icon=dependabot&label" alt="DependaBot" title="DependaBot" />
-  <img src="https://badgen.net/badge/icon/adopter?icon=codeclimate&label" alt="CodeClimate" title="CodeClimate" />
-  <img src="https://badgen.net/badge/icon/lover%2Fhater?icon=terraform&label" alt="Terraform" title="Terraform" />
-  <img src="https://badgen.net/badge/icon/lover?icon=apple&label" alt="Apple" title="Apple" />
-</p>
-
-🔭&nbsp;&nbsp;I’m currently working on [Alertmanager Telegram Bot](https://github.com/wwmoraes/alertmanager-telegram-bot)
 
 🌱&nbsp;&nbsp;I’m currently learning [Microsoft Azure](https://azure.microsoft.com/en-us/)
-
-👨‍💻&nbsp;&nbsp;My projects are available at [sajadorouji](https://sajadorouji.com)
 
 💬&nbsp;&nbsp;Ask me about **Kubernetes, Cloud, Golang, Docker, GNU/Linux, Networking**
 
